@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+header: Pathogens
+format: jb-book
+root: intro
+parts:
+  - caption: First Part
+    numbered: False
+    chapters:
+    - file: markdown
+      sections:
+      - file: markdown-notebooks
+      - file: notebooks/notebooks
+#test
