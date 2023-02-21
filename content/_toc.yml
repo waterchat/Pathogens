@@ -4,7 +4,7 @@ header: Pathogens
 format: jb-book
 root: intro
 parts:
-  - caption: First Part
+  - caption: First Part testing Tuesday
     numbered: False
     chapters:
     - file: markdown
