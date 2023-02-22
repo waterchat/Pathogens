@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+title: Pathogen Control
+format: jb-book
+root: content/intro
+parts:
+  - caption: First Part testing Tuesday
+    numbered: False
+    chapters:
+    - file: content/markdown
+      sections:
+      - file: content/markdown-notebooks
+      - file: notebooks/notebooks
+#test
