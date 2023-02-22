@@ -1,6 +1,10 @@
 # Pathogen Content
 
-Add each class section exercises; add annotations to class text
+Add each class section exercises; add annotations to class textls
+
+
+Point to Obsidian canvas dedicated to CE210: Pathogen Control
+
 It shows off a few of the major file types, as well as some sample content.
 It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
 
