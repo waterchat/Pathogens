@@ -1,7 +1,8 @@
 # Pathogen Content
 - created Wednesday 22 Feb 2023
 try again
-worked; now check credentials
+worked; now check credentials1
+
 
 Add each class section exercises; add annotations to class textls
 
